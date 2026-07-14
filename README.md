@@ -5,6 +5,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yusufas/](https://www.linkedin.com/in/yusufas/)
 
+- Open source project contibution: A LaTex Template for Institut Teknologi Bandung Final Project (Tugas Akhir) [https://github.com/Yusufarsan/ta-latex-itb-2026](https://github.com/Yusufarsan/ta-latex-itb-2026)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusufas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufas" height="30" width="40" /></a>
